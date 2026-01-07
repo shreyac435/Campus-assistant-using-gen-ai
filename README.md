@@ -25,3 +25,6 @@ An AI-based campus assistant that answers common VIT Vellore student queries usi
 1. Open the Google Colab notebook linked below  
 2. Run the cells in order  
 3. Start the chat loop and ask campus-related questions 
+
+# Colab File
+https://colab.research.google.com/drive/1GjjL20UrdQ_hN-zUCWjlSTShwzR-OM5I?usp=sharing
